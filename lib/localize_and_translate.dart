@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import 'src/main.dart';
 
-enum LocalizationDefaultType { device, asDefined }
 LocalizeAndTranslate translator = new LocalizeAndTranslate();
 
 class LocalizedApp extends StatefulWidget {

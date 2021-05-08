@@ -12,4 +12,4 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.0.4
-  http: ^0.13.0
+  devicelocale: ^0.4.1
